@@ -191,11 +191,12 @@ input, textarea {
     border: 1px solid #ccc;
     border-radius: 3px;
     font-size: 14px;
+    color: black;
 }
 
 .submit-button {
     background-color: #2d2d2d;
-    color: #000000;
+    color: #fff;
     padding: 10px 20px;
     border: none;
     border-radius: 3px;
