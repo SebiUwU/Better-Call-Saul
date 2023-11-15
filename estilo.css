@@ -102,7 +102,6 @@ p {
 
 .sect h1 {
   font-size: 50px;
-  min-width: 470px;
 }
 
 .h1perso {
@@ -530,9 +529,13 @@ a img {
 
 @media (max-width: 576px) {
 
+.sect h1 {
+  height: 200px;
+}
+
 .h1perso-rp {
   width: 75%;
-  height: 150px;
+  height: 200px;
   font-size: 55px;
   background-color: #7c7c7c;
   border: 5px solid white;
@@ -541,7 +544,6 @@ a img {
   margin-top: 20px;
   margin-bottom: 10px;
   text-align: center;
-  min-width: 450px;
 }
 
 .personajes-img-container-rp {
